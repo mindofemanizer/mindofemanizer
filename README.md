@@ -3,7 +3,7 @@
 🔭 I’m currently working on **Frontend Development**
 🌱 Learning **React, Next.js, and TypeScript**
 💬 Ask me about **JavaScript, Web Development**
-📫 How to reach me: **spasidanenter@gmail.com**
+📫 How to reach me: **LinkedIn** 👇
 
 ---
 
