@@ -1,24 +1,14 @@
 <h1 align="center">Hi there 👋, I'm <a href="https://github.com/mindofemanizer">MindOfEmanizer</a></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36D1DC&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Frontend+Developer;Building+Modern+Web+Apps;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36D1DC&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Hobbyist+Programmer;Loving+to+Learn+New+Things;Enjoying+Music+%26+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  🔭 I’m currently working on <b>Frontend Development</b><br>
-  🌱 Learning <b>React, Next.js & TypeScript</b><br>
-  💬 Ask me about <b>JavaScript, Web Development</b><br>
-  📫 Reach me via <b>LinkedIn</b> 👇
-</p>
-
----
-
-<h3 align="center">⚡ GitHub Trophies</h3>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mindofemanizer&theme=radical&no-frame=true&no-bg=false&column=7" alt="Trophy" />
-  </a>
+  🎵 Music lover by day, code learner by night<br>
+  🐧 Daily driving <b>Ubuntu</b> & <b>Windows</b><br>
+  💻 <b>CloudLinux</b> for server stuff<br>
+  💬 Ask me about anything, I'm still learning!
 </p>
 
 ---
@@ -28,12 +18,34 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+</p>
+
+---
+
+<h3 align="center">🐧 Linux & Server</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/-CloudLinux-FD6D22?style=for-the-badge&logo=linux&logoColor=white" alt="CloudLinux" />
+</p>
+
+---
+
+<h3 align="center">🎵 Music & Vibes</h3>
+
+<p align="center">
+  <i>"While the code compiles, the music plays."</i>
 </p>
 
 ---
@@ -50,48 +62,21 @@
 
 ---
 
-<h3 align="center">🔥 GitHub Streak</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mindofemanizer&theme=radical&hide_border=true" alt="Streak" />
-</p>
-
----
-
-<h3 align="center">📈 Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mindofemanizer&theme=redical&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-<h3 align="center">🐍 Contribution Snake</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mindofemanizer/mindofemanizer/output/github-snake-dark.svg" alt="Snake" />
-</p>
-
----
-
 <h3 align="center">🌍 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mindofemanizer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/mindofemanizer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
   <a href="https://instagram.com/mindofemanizer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/mindofemanizer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mindofemanizer&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mindofemanizer&color=bluevillage&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
