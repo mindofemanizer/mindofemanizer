@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎵 Music lover by day, code learner by night<br>
+  🇮🇩 Hanya Orang Indonesia Biasa, Bukan Siapa-Siapa Dan Bukan Apa-Apa<br>
   🐧 Daily driving <b>Ubuntu</b> & <b>Windows</b><br>
   💻 <b>CloudLinux</b> for server stuff<br>
   💬 Ask me about anything, I'm still learning!
@@ -23,21 +23,26 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
 </p>
 
 ---
 
-<h3 align="center">🐧 Linux & Server</h3>
+<h3 align="center">🐧 Linux & Open Source Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/-CloudLinux-FD6D22?style=for-the-badge&logo=linux&logoColor=white" alt="CloudLinux" />
+  <img src="https://img.shields.io/badge/-Open_Source-663399?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Open Source" />
+</p>
+
+<p align="center">
+  <i>Ubuntu for daily use, Linux fuck the rest!</i>
 </p>
 
 ---
@@ -45,7 +50,13 @@
 <h3 align="center">🎵 Music & Vibes</h3>
 
 <p align="center">
-  <i>"While the code compiles, the music plays."</i>
+  <img src="https://img.shields.io/badge/-Death_Metal-1C1C1C?style=for-the-badge&labelColor=1C1C1C" alt="Death Metal" />
+  <img src="https://img.shields.io/badge/-Grindcore-8B0000?style=for-the-badge&labelColor=8B0000" alt="Grindcore" />
+  <img src="https://img.shields.io/badge/-Extreme_Music-FF4500?style=for-the-badge&labelColor=FF4500" alt="Extreme Music" />
+</p>
+
+<p align="center">
+  <i>"While the code compiles, the blast beats play."</i>
 </p>
 
 ---
